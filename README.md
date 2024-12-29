@@ -25,6 +25,8 @@ Players can enjoy TicBlock without revealing personal information. The game uses
 6.In-Game Blockchain Transactions:
 Each game move is a blockchain transaction, which ensures the game's state is secure and immutable. Potential future features may include blockchain-based rewards or in-game assets tied to player accounts, further enhancing the Web3 experience.
 
+![image](https://github.com/user-attachments/assets/2fdb420e-1677-4451-b9ed-11b38edaf845)
+
 # Innovative Aspects of TicBlock:
 1.Blockchain Integration: TicBlock takes the classic TicTacToe game to the next level by using blockchain for user verification, transparent gameplay, and secure transaction recording.
 
